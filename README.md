@@ -42,4 +42,4 @@ CSS3 – Styling with custom theme and animations
 
 JavaScript (ES6) – Password generation logic, validation, and interactivity
 
-Demo Link : https://aman83verma.github.io/Password-Generator/
+Domain Link : https://aman83verma.github.io/Password-Generator/
